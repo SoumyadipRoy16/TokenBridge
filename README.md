@@ -1,4 +1,4 @@
-# 🪙 My Token DApp
+# 🪙 My Token DApp: **TokenBridge**
 
 This project is a decentralized application (DApp) that allows users to transfer ERC-20 tokens using **MetaMask**. The DApp connects to the Ethereum blockchain and interacts with a smart contract to manage token transfers securely.
 
