@@ -39,7 +39,7 @@ npm install
 Create a `.env` file in the root of your project and add:
 ```bash
 # .env
-CONTRACT_ADDRESS=0x3627eCB5135d38f9CA14b103B2c50761FFe55194
+REACT_APP_CONTRACT_ADDRESS=0x3627eCB5135d38f9CA14b103B2c50761FFe55194
 INFURA_API_KEY=your-infura-api-key
 PRIVATE_KEY=your-wallet-private-key
 ```
@@ -47,12 +47,12 @@ PRIVATE_KEY=your-wallet-private-key
 #### 4️⃣ Export Contract Address
 For Linux/macOS:
 ```bash
-export CONTRACT_ADDRESS=0x3627eCB5135d38f9CA14b103B2c50761FFe55194
+export REACT_APP_CONTRACT_ADDRESS=0x3627eCB5135d38f9CA14b103B2c50761FFe55194
 ```
 
 For Windows (Command Prompt):
 ```bash
-set CONTRACT_ADDRESS=0x3627eCB5135d38f9CA14b103B2c50761FFe55194
+set REACT_APP_CONTRACT_ADDRESS=0x3627eCB5135d38f9CA14b103B2c50761FFe55194
 ```
 
 ## 📜 Smart Contract Development
